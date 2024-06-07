@@ -6,3 +6,7 @@
 [Pastebin CLI](https://crates.io/crates/pastebin-cli) <br />
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tilo-K&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://wallpapercave.com/wp/wp6380371.png');]{x0000}$}
